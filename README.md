@@ -1,4 +1,5 @@
-### The training dataset is being prepared and will soon be made public...
+### GlyphCreator
+The training dataset is being prepared and will soon be made public...
 
 <!--
 **GlyphCreator/GlyphCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
